@@ -28,4 +28,3 @@ avg_confidence = sum(confidences) / len(confidences)
 
 print(f"\nAccuracy: {accuracy:.2%} ({correct}/{total})")
 print(f"Average Adjusted Confidence: {avg_confidence:.3f}")
-print(f"Average Raw Confidence would be higher!")

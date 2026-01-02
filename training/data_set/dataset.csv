@@ -1,4 +1,4 @@
-text,label
+text,document_type
 Contract between Alpha Ltd and Beta LLC | Effective: 2024-09-26 | Term: 12 months | Signed: 2023-05-26 | Value: 158921.00,contract
 Quote Q-6125 | Date: 2025-09-24 | Expires: 2025-10-24 | Item: Service Package | Price: 6636.00,quote
 Quote Q-5312 | Date: 2024-02-24 | Expires: 2024-03-25 | Item: Service Package | Price: 6885.00,quote
@@ -102,4 +102,3 @@ Quote Q-8270 | Date: 2023-11-07 | Expires: 2023-12-07 | Item: Service Package | 
 Receipt #: R-19740 | Date: 2023-07-29 | Store: RetailMart | Items: 3 | Total Paid: 352.00,receipt
 "Meeting Minutes | Date: 2025-11-17 | Attendees: Frank, Eve, Dana | Summary: Discuss project milestones and next steps.",meeting_minutes
 Credit Memo CM-5416 | Date: 2023-06-27 | Reference Invoice: INV-5823 | Amount Credited: 970.00,credit_memo
-Email Subject: Project Update | Date: 2023-07-05 | From: sender@example.com | To: team@example.com | Snippet: Please find attached the latest update on deliverables.,correspondence
