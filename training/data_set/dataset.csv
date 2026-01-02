@@ -1,0 +1,105 @@
+text,label
+Contract between Alpha Ltd and Beta LLC | Effective: 2024-09-26 | Term: 12 months | Signed: 2023-05-26 | Value: 158921.00,contract
+Quote Q-6125 | Date: 2025-09-24 | Expires: 2025-10-24 | Item: Service Package | Price: 6636.00,quote
+Quote Q-5312 | Date: 2024-02-24 | Expires: 2024-03-25 | Item: Service Package | Price: 6885.00,quote
+Credit Memo CM-4688 | Date: 2023-12-01 | Reference Invoice: INV-6579 | Amount Credited: 563.00,credit_memo
+Expense Report | Employee: John Doe | Period: 2024-04-03 to 2023-04-09 | Meals: 89.00 | Lodging: 478.00 | Total: 574.00,expense_report
+"Meeting Minutes | Date: 2024-04-06 | Attendees: Alice, Bob, Frank | Summary: Discuss project milestones and next steps.",meeting_minutes
+"Meeting Minutes | Date: 2025-01-28 | Attendees: Bob, Frank, Dana | Summary: Discuss project milestones and next steps.",meeting_minutes
+Expense Report | Employee: John Doe | Period: 2025-09-17 to 2025-06-07 | Meals: 50.00 | Lodging: 481.00 | Total: 1215.00,expense_report
+Receipt #: R-70889 | Date: 2023-12-06 | Store: RetailMart | Items: 3 | Total Paid: 219.00,receipt
+Invoice: INV-6271 | Date: 2025-12-06 | Vendor: VendorCo | Subtotal: 1688.00 | Tax: 298.00 | Total: 1108.00,invoice
+PO: PO-7047 | Date: 2025-05-31 | Requester: Ops Team | Item: Widget A x18 | Total: 1032.00,purchase_order
+Contract between Alpha Ltd and Beta LLC | Effective: 2023-01-26 | Term: 12 months | Signed: 2024-03-16 | Value: 87163.00,contract
+"Meeting Minutes | Date: 2023-03-12 | Attendees: Alice, Eve, Dana | Summary: Discuss project milestones and next steps.",meeting_minutes
+"Meeting Minutes | Date: 2025-12-01 | Attendees: Frank, Alice, Dana | Summary: Discuss project milestones and next steps.",meeting_minutes
+Employee: Jane Smith | Date: 2024-06-06 | Project: ProjectX | Task: Development | Hours: 8 | Billable: Yes,timesheet
+Invoice: INV-8173 | Date: 2024-10-19 | Vendor: VendorCo | Subtotal: 2252.00 | Tax: 421.00 | Total: 3635.00,invoice
+W-2 | Employer: Acme Corp | Tax Year: 2023 | Wages: 23851.00 | Tax Withheld: 1431.00,tax_form
+Account: 69822600 | Date: 2025-03-20 | Description: ATM Withdrawal | Amount: -330.00 | Balance: 10873.00,bank_statement
+Receipt #: R-29789 | Date: 2025-12-16 | Store: RetailMart | Items: 3 | Total Paid: 564.00,receipt
+Contract between Alpha Ltd and Beta LLC | Effective: 2024-11-24 | Term: 12 months | Signed: 2025-09-17 | Value: 179228.00,contract
+Email Subject: Project Update | Date: 2023-02-28 | From: sender@example.com | To: team@example.com | Snippet: Please find attached the latest update on deliverables.,correspondence
+Credit Memo CM-4125 | Date: 2024-08-01 | Reference Invoice: INV-7168 | Amount Credited: 1101.00,credit_memo
+PO: PO-7733 | Date: 2025-10-14 | Requester: Ops Team | Item: Widget A x44 | Total: 1656.00,purchase_order
+Employee: Jane Smith | Date: 2025-07-21 | Project: ProjectX | Task: Development | Hours: 8 | Billable: Yes,timesheet
+Expense Report | Employee: John Doe | Period: 2023-04-07 to 2023-02-16 | Meals: 197.00 | Lodging: 755.00 | Total: 447.00,expense_report
+Employee: Jane Smith | Date: 2025-02-18 | Project: ProjectX | Task: Development | Hours: 6 | Billable: Yes,timesheet
+Receipt #: R-82223 | Date: 2025-03-25 | Store: RetailMart | Items: 3 | Total Paid: 321.00,receipt
+Expense Report | Employee: John Doe | Period: 2025-03-26 to 2024-01-16 | Meals: 75.00 | Lodging: 611.00 | Total: 609.00,expense_report
+Expense Report | Employee: John Doe | Period: 2023-08-16 to 2024-11-24 | Meals: 44.00 | Lodging: 715.00 | Total: 558.00,expense_report
+Receipt #: R-69961 | Date: 2025-08-31 | Store: RetailMart | Items: 3 | Total Paid: 683.00,receipt
+W-2 | Employer: Acme Corp | Tax Year: 2023 | Wages: 40115.00 | Tax Withheld: 4102.00,tax_form
+Receipt #: R-55303 | Date: 2024-09-14 | Store: RetailMart | Items: 3 | Total Paid: 405.00,receipt
+Email Subject: Project Update | Date: 2025-10-29 | From: sender@example.com | To: team@example.com | Snippet: Please find attached the latest update on deliverables.,correspondence
+Employee: Jane Smith | Date: 2025-05-08 | Project: ProjectX | Task: Development | Hours: 5 | Billable: Yes,timesheet
+Contract between Alpha Ltd and Beta LLC | Effective: 2023-10-10 | Term: 12 months | Signed: 2023-01-01 | Value: 104720.00,contract
+Employee: Jane Smith | Date: 2023-08-23 | Project: ProjectX | Task: Development | Hours: 8 | Billable: Yes,timesheet
+Invoice: INV-1631 | Date: 2024-02-04 | Vendor: VendorCo | Subtotal: 3137.00 | Tax: 463.00 | Total: 969.00,invoice
+Packing Slip PS-2078 | Date: 2023-03-12 | Order: PO-4434 | Item: Widget A | Qty Shipped: 15,packing_slip
+Packing Slip PS-9674 | Date: 2024-05-08 | Order: PO-7003 | Item: Widget A | Qty Shipped: 49,packing_slip
+Account: 28190278 | Date: 2025-01-02 | Description: ATM Withdrawal | Amount: -426.00 | Balance: 11834.00,bank_statement
+Account: 24592507 | Date: 2023-01-19 | Description: ATM Withdrawal | Amount: -385.00 | Balance: 6858.00,bank_statement
+PO: PO-5719 | Date: 2024-01-06 | Requester: Ops Team | Item: Widget A x27 | Total: 986.00,purchase_order
+Quote Q-9827 | Date: 2025-07-08 | Expires: 2025-08-07 | Item: Service Package | Price: 2480.00,quote
+Account: 57231622 | Date: 2024-02-10 | Description: ATM Withdrawal | Amount: -179.00 | Balance: 14359.00,bank_statement
+Invoice: INV-1421 | Date: 2023-09-24 | Vendor: VendorCo | Subtotal: 2724.00 | Tax: 374.00 | Total: 1560.00,invoice
+Expense Report | Employee: John Doe | Period: 2023-09-21 to 2023-12-25 | Meals: 141.00 | Lodging: 381.00 | Total: 357.00,expense_report
+Quote Q-9419 | Date: 2023-05-09 | Expires: 2023-06-08 | Item: Service Package | Price: 9703.00,quote
+Quote Q-5608 | Date: 2023-06-22 | Expires: 2023-07-22 | Item: Service Package | Price: 10796.00,quote
+Contract between Alpha Ltd and Beta LLC | Effective: 2023-04-22 | Term: 12 months | Signed: 2025-04-03 | Value: 168491.00,contract
+PO: PO-6564 | Date: 2023-03-25 | Requester: Ops Team | Item: Widget A x33 | Total: 860.00,purchase_order
+W-2 | Employer: Acme Corp | Tax Year: 2022 | Wages: 95651.00 | Tax Withheld: 11447.00,tax_form
+Contract between Alpha Ltd and Beta LLC | Effective: 2022-06-12 | Term: 12 months | Signed: 2024-06-16 | Value: 93999.00,contract
+Employee: Jane Smith | Date: 2023-12-09 | Project: ProjectX | Task: Development | Hours: 8 | Billable: Yes,timesheet
+Credit Memo CM-7648 | Date: 2023-11-20 | Reference Invoice: INV-5651 | Amount Credited: 109.00,credit_memo
+Receipt #: R-36660 | Date: 2025-03-24 | Store: RetailMart | Items: 3 | Total Paid: 778.00,receipt
+Contract between Alpha Ltd and Beta LLC | Effective: 2023-01-05 | Term: 12 months | Signed: 2025-04-28 | Value: 121330.00,contract
+Invoice: INV-6315 | Date: 2023-11-10 | Vendor: VendorCo | Subtotal: 3725.00 | Tax: 472.00 | Total: 4794.00,invoice
+PO: PO-7864 | Date: 2023-09-29 | Requester: Ops Team | Item: Widget A x16 | Total: 2020.00,purchase_order
+Account: 47615622 | Date: 2025-04-04 | Description: ATM Withdrawal | Amount: -86.00 | Balance: 13740.00,bank_statement
+Receipt #: R-28832 | Date: 2024-02-25 | Store: RetailMart | Items: 3 | Total Paid: 385.00,receipt
+W-2 | Employer: Acme Corp | Tax Year: 2023 | Wages: 42651.00 | Tax Withheld: 13036.00,tax_form
+Invoice: INV-8712 | Date: 2025-06-29 | Vendor: VendorCo | Subtotal: 1730.00 | Tax: 292.00 | Total: 3641.00,invoice
+Quote Q-3858 | Date: 2023-10-03 | Expires: 2023-11-02 | Item: Service Package | Price: 8834.00,quote
+Account: 26774400 | Date: 2023-07-15 | Description: ATM Withdrawal | Amount: -437.00 | Balance: 11819.00,bank_statement
+"Meeting Minutes | Date: 2023-05-09 | Attendees: Eve, Frank, Dana | Summary: Discuss project milestones and next steps.",meeting_minutes
+W-2 | Employer: Acme Corp | Tax Year: 2024 | Wages: 99646.00 | Tax Withheld: 14089.00,tax_form
+Credit Memo CM-7011 | Date: 2023-09-07 | Reference Invoice: INV-3540 | Amount Credited: 1191.00,credit_memo
+Credit Memo CM-6576 | Date: 2023-04-03 | Reference Invoice: INV-3505 | Amount Credited: 705.00,credit_memo
+Quote Q-8051 | Date: 2023-05-14 | Expires: 2023-06-13 | Item: Service Package | Price: 10040.00,quote
+Expense Report | Employee: John Doe | Period: 2024-04-20 to 2024-02-06 | Meals: 198.00 | Lodging: 569.00 | Total: 1015.00,expense_report
+Email Subject: Project Update | Date: 2024-02-21 | From: sender@example.com | To: team@example.com | Snippet: Please find attached the latest update on deliverables.,correspondence
+Packing Slip PS-2063 | Date: 2025-08-16 | Order: PO-6584 | Item: Widget A | Qty Shipped: 9,packing_slip
+Email Subject: Project Update | Date: 2024-03-04 | From: sender@example.com | To: team@example.com | Snippet: Please find attached the latest update on deliverables.,correspondence
+Email Subject: Project Update | Date: 2023-10-13 | From: sender@example.com | To: team@example.com | Snippet: Please find attached the latest update on deliverables.,correspondence
+Expense Report | Employee: John Doe | Period: 2024-10-19 to 2023-03-27 | Meals: 27.00 | Lodging: 525.00 | Total: 1490.00,expense_report
+Packing Slip PS-1563 | Date: 2023-09-01 | Order: PO-5904 | Item: Widget A | Qty Shipped: 93,packing_slip
+Credit Memo CM-1037 | Date: 2023-06-28 | Reference Invoice: INV-5905 | Amount Credited: 244.00,credit_memo
+"Meeting Minutes | Date: 2025-07-14 | Attendees: Dana, Charlie, Bob | Summary: Discuss project milestones and next steps.",meeting_minutes
+Packing Slip PS-5167 | Date: 2024-01-15 | Order: PO-7671 | Item: Widget A | Qty Shipped: 70,packing_slip
+Employee: Jane Smith | Date: 2024-11-06 | Project: ProjectX | Task: Development | Hours: 7 | Billable: Yes,timesheet
+Account: 56835805 | Date: 2023-05-17 | Description: ATM Withdrawal | Amount: -262.00 | Balance: 12733.00,bank_statement
+Email Subject: Project Update | Date: 2023-03-03 | From: sender@example.com | To: team@example.com | Snippet: Please find attached the latest update on deliverables.,correspondence
+Packing Slip PS-1780 | Date: 2024-04-01 | Order: PO-2065 | Item: Widget A | Qty Shipped: 84,packing_slip
+Packing Slip PS-7494 | Date: 2023-03-18 | Order: PO-7486 | Item: Widget A | Qty Shipped: 11,packing_slip
+Email Subject: Project Update | Date: 2025-01-03 | From: sender@example.com | To: team@example.com | Snippet: Please find attached the latest update on deliverables.,correspondence
+Account: 72103570 | Date: 2024-04-29 | Description: ATM Withdrawal | Amount: -399.00 | Balance: 10007.00,bank_statement
+Contract between Alpha Ltd and Beta LLC | Effective: 2023-08-29 | Term: 12 months | Signed: 2025-04-06 | Value: 98908.00,contract
+Invoice: INV-1131 | Date: 2024-07-12 | Vendor: VendorCo | Subtotal: 1601.00 | Tax: 265.00 | Total: 3598.00,invoice
+Credit Memo CM-6634 | Date: 2025-12-09 | Reference Invoice: INV-7532 | Amount Credited: 461.00,credit_memo
+PO: PO-2025 | Date: 2024-10-14 | Requester: Ops Team | Item: Widget A x41 | Total: 2991.00,purchase_order
+Invoice: INV-2652 | Date: 2024-03-26 | Vendor: VendorCo | Subtotal: 4282.00 | Tax: 351.00 | Total: 5327.00,invoice
+PO: PO-5630 | Date: 2023-09-29 | Requester: Ops Team | Item: Widget A x49 | Total: 1658.00,purchase_order
+W-2 | Employer: Acme Corp | Tax Year: 2023 | Wages: 21294.00 | Tax Withheld: 6367.00,tax_form
+"Meeting Minutes | Date: 2024-12-14 | Attendees: Bob, Frank, Eve | Summary: Discuss project milestones and next steps.",meeting_minutes
+Employee: Jane Smith | Date: 2025-09-01 | Project: ProjectX | Task: Development | Hours: 6 | Billable: Yes,timesheet
+W-2 | Employer: Acme Corp | Tax Year: 2024 | Wages: 36215.00 | Tax Withheld: 13200.00,tax_form
+W-2 | Employer: Acme Corp | Tax Year: 2023 | Wages: 59489.00 | Tax Withheld: 3593.00,tax_form
+PO: PO-8815 | Date: 2025-09-14 | Requester: Ops Team | Item: Widget A x20 | Total: 1970.00,purchase_order
+Packing Slip PS-9161 | Date: 2025-03-21 | Order: PO-7240 | Item: Widget A | Qty Shipped: 82,packing_slip
+Quote Q-8270 | Date: 2023-11-07 | Expires: 2023-12-07 | Item: Service Package | Price: 8755.00,quote
+Receipt #: R-19740 | Date: 2023-07-29 | Store: RetailMart | Items: 3 | Total Paid: 352.00,receipt
+"Meeting Minutes | Date: 2025-11-17 | Attendees: Frank, Eve, Dana | Summary: Discuss project milestones and next steps.",meeting_minutes
+Credit Memo CM-5416 | Date: 2023-06-27 | Reference Invoice: INV-5823 | Amount Credited: 970.00,credit_memo
+Email Subject: Project Update | Date: 2023-07-05 | From: sender@example.com | To: team@example.com | Snippet: Please find attached the latest update on deliverables.,correspondence
