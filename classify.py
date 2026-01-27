@@ -18,7 +18,7 @@ async def classify_pdf(pdf_text, file_bytes,file_document_type):
 
     document_type,confidence = classify_with_bert(pdf_text)
 
-    if confidence < 0.3:
+    if confidence < 0.7:
         document_type,confidence = await classify_document(file_bytes,file_document_type)
 
         await add_to_training_data(pdf_text, document_type)
